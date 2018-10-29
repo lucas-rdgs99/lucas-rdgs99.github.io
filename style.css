@@ -1,0 +1,10 @@
+.list {color: white;}
+.header {color: white; text-align: center;} 
+.background {background-color: black;}
+.img {display:block; margin-left:auto; margin-right:auto; }
+.button {background-color: black;display: block; margin-left:auto; margin-right:auto;}
+.list {text-align: center;}
+li {display: block; margin-left: auto; margin-right: auto;}
+.timer-block {background-color:red; width: 240px; height:80px; display: block; margin-left:auto; margin-right:auto;}
+.timer-header {color:black; font-size: 20px ; font-weight: bolder; text-align: center;}
+#timer {color:black ; font-size: 20px; font-weight: bolder; text-align: center; }
