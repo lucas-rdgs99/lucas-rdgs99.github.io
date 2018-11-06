@@ -1,10 +1,10 @@
-.list {color: white;}
-.header {color: white; text-align: center;} 
+.list {color: white; text-align: center;}
+.list-block {display: block; border: 15px solid red; margin: 150px; margin-top: 20px;}
+.header {color: white; text-align: center; border: 10px solid red; padding: 20px; margin-left: 150px; margin-right: 150px;} 
 .background {background-color: black;}
-.img {display:block; margin-left:auto; margin-right:auto; }
-.button {background-color: black;display: block; margin-left:auto; margin-right:auto;}
-.list {text-align: center;}
-li {display: block; margin-left: auto; margin-right: auto;}
-.timer-block {background-color:red; width: 240px; height:80px; display: block; margin-left:auto; margin-right:auto;}
-.timer-header {color:black; font-size: 20px ; font-weight: bolder; text-align: center;}
-#timer {color:black ; font-size: 20px; font-weight: bolder; text-align: center; }
+.img {display:block; margin-left: auto; margin-right: auto; margin-top: 20px; margin-bottom: 20px;}
+.button {background-color: black;display: block; margin-left:auto; margin-right:auto; padding: 10px;}
+li {display: block; padding: 15px;}
+.timer-block {background-color: black; width: 240px; height:80px; display: block; margin-left:auto; margin-right:auto; border: 10px solid red; padding: 30px;}
+.timer-header {color: white; font-size: 20px ; font-weight: bolder; text-align: center;}
+#timer {color: white ; font-size: 20px; font-weight: bolder; text-align: center; }
